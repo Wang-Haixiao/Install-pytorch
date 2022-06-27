@@ -7,21 +7,21 @@
 
 ## 1 在pytorch官网寻找对应版本下载链接
 网址：https://pytorch.org/get-started/locally/
-
+![](\IMG\1.png)
 （使用pip）
 
 ## 2 在命令后跟随镜像设置
 `-i https://pypi.tuna.tsinghua.edu.cn/simple some-package`（清华源，已挂）
 
-豆瓣(douban) http://pypi.douban.com/simple/
+豆瓣(douban) `http://pypi.douban.com/simple/`
 
-清华大学 https://pypi.tuna.tsinghua.edu.cn/simple/
+清华大学 `https://pypi.tuna.tsinghua.edu.cn/simple/`
 
-阿里云 http://mirrors.aliyun.com/pypi/simple/
+阿里云 `http://mirrors.aliyun.com/pypi/simple/`
 
-中国科技大学 https://pypi.mirrors.ustc.edu.cn/simple/
+中国科技大学 `https://pypi.mirrors.ustc.edu.cn/simple/`
 
-中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
+中国科学技术大学 `http://pypi.mirrors.ustc.edu.cn/simple/`
 
 ## 3 命令行输入命令运行即可
 
