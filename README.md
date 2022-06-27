@@ -11,7 +11,7 @@
 （使用pip）
 
 ## 2 在命令后跟随镜像设置
-"-i https://pypi.tuna.tsinghua.edu.cn/simple some-package"（清华源，已挂）
+`-i https://pypi.tuna.tsinghua.edu.cn/simple some-package`（清华源，已挂）
 
 豆瓣(douban) http://pypi.douban.com/simple/
 
@@ -26,4 +26,5 @@
 ## 3 命令行输入命令运行即可
 
 # 3 查看pytorch版本
-命令行输入"python -c "import tprch; print(torch.__version__)""
+命令行输入
+`python -c "import tprch; print(torch.__version__)"`
