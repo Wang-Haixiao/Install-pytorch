@@ -24,3 +24,6 @@
 中国科学技术大学 http://pypi.mirrors.ustc.edu.cn/simple/
 
 ## 3 命令行输入命令运行即可
+
+# 3 查看pytorch版本
+命令行输入"python -c "import tprch; print(torch.__version__)""
