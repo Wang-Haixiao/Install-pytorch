@@ -7,7 +7,7 @@
 
 ## 1 在pytorch官网寻找对应版本下载链接
 网址：https://pytorch.org/get-started/locally/
-![](\IMG\1.png)
+![](/IMG/1.jpg)
 （使用pip）
 
 ## 2 在命令后跟随镜像设置
