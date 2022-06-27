@@ -3,6 +3,8 @@
 # 1 安装CUDA
 教程：https://zhuanlan.zhihu.com/p/94220564?utm_source=wechat_session
 
+查看CUDA版本：命令行输入`nvcc --version`
+
 # 2 安装pytorch
 
 ## 1 在pytorch官网寻找对应版本下载链接
