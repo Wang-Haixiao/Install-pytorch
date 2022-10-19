@@ -26,7 +26,8 @@
 中国科学技术大学 `http://pypi.mirrors.ustc.edu.cn/simple/`
 
 ## 3 命令行输入命令运行即可
+如果仅需要下载对应的包，在控制台运行上述命令后，复制其显示的下载链接即可
 
 # 3 查看pytorch版本
 命令行输入
-`python -c "import tprch; print(torch.__version__)"`
+`python -c "import torch; print(torch.__version__)"`
