@@ -21,8 +21,6 @@
 
 阿里云 `http://mirrors.aliyun.com/pypi/simple/`
 
-中国科技大学 `https://pypi.mirrors.ustc.edu.cn/simple/`
-
 中国科学技术大学 `http://pypi.mirrors.ustc.edu.cn/simple/`
 
 ## 3 命令行输入命令运行即可
