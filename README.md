@@ -21,7 +21,7 @@
 
 阿里云 `http://mirrors.aliyun.com/pypi/simple/`
 
-中国科学技术大学 `http://pypi.mirrors.ustc.edu.cn/simple/`
+中国科学技术大学 `https://pypi.mirrors.ustc.edu.cn/simple/`
 
 ## 3 命令行输入命令运行即可
 如果仅需要下载对应的包，在控制台运行上述命令后，复制其显示的下载链接即可
